@@ -1,2 +1,2 @@
-# Homework
-The C language. Homework from the tutor.
+# School 21
+The C language.
